@@ -13,7 +13,7 @@ test('Http trigger should return known text', async () => {
     // expect(context.res.body).toEqual('Hello Bill');
 });
 test('Context  test',async() =>{
-    const p = await DurabelFnHTTP(context,mock)
-    console.log(p)
-
+ 
+ 
+    // todo
 } )
